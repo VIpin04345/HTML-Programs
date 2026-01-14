@@ -29,5 +29,25 @@ This is a simple and clean HTML-based project created to practice and demonstrat
 
 
 
-## 📂 Project Structure
+---
+
+## 💻 How to Run
+
+1. Download or clone the repo  
+2. Open `index.html` in any browser  
+3. Done ✅
+
+---
+
+## 🙋‍♂️ Author
+
+**Vipin Yadav**  
+- GitHub: https://github.com/VIpin04345
+
+---
+
+## ⭐ Support
+
+If you like this project, don’t forget to **star** the repo ⭐  
+
 
