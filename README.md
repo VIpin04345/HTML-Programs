@@ -4,7 +4,6 @@ My HTML practices.
 # 🌐 My HTML Project
 
 
-
 This is a simple and clean HTML-based project created to practice and demonstrate front-end development skills.
 
 ---
