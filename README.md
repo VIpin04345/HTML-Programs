@@ -6,7 +6,6 @@ My HTML practices.
 
 This is a simple and clean HTML-based project created to practice and demonstrate front-end development skills.
 
-
 ---
 
 ## 🚀 Features
